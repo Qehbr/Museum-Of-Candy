@@ -1,1 +1,1 @@
-# qehbr.github.io-museumofcandy
+# My first HTML/CSS site: "Museum of Candy"
